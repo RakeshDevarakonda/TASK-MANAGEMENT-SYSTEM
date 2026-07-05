@@ -1,0 +1,25 @@
+# Go build output
+bin/
+dist/
+*.exe
+*.test
+*.out
+
+# Air live-reload build directory
+tmp/
+
+# Local Go build cache used for this project
+.gocache/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
