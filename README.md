@@ -1,4 +1,4 @@
-﻿# 🗂️ Task Management System
+# 🗂️ Task Management System
 
 > A multi-workspace collaboration API with **hierarchical Role-Based Access Control (RBAC)**, a structured task lifecycle, and secure JWT-based authentication — built with Go, Gin, and PostgreSQL.
 
@@ -34,7 +34,6 @@
 - [Development](#-development)
 - [Deployment](#-deployment)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -590,12 +589,6 @@ Open a GitHub Issue with:
 - Steps to reproduce
 - Expected vs actual behaviour
 - Go version and OS
-
----
-
-## 📄 License
-
-MIT License — free to use, fork, and adapt for personal or commercial projects.
 
 ---
 
